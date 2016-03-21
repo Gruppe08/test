@@ -12,4 +12,4 @@ public interface GreetingService extends RemoteService {
 }
 //test
 //TEST
-//Pikkemand2
+//Pikkemand22

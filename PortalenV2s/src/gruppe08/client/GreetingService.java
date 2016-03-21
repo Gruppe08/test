@@ -11,3 +11,4 @@ public interface GreetingService extends RemoteService {
 	String greetServer(String name) throws IllegalArgumentException;
 }
 //test
+//TEST

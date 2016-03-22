@@ -20,7 +20,7 @@ public class RpcServiceImpl extends RemoteServiceServlet implements RpcService {
 
 	private static final String URL = "jdbc:mysql://localhost:3306/doek15";
 	private static final String USERNAME = "root";
-	private static final String PASSWORD = "grisling1";
+	private static final String PASSWORD = "Grisling1";
 	private static Connection connection = null;
 	
 	public RpcServiceImpl() {
